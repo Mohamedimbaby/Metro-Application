@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MetroApp</string>
+    <array name="lines">
+        <item>Select Line</item>
+        <item>Line 1</item>
+
+        <item>Line 2</item>
+
+        <item>Line 3</item>
+    </array>
+</resources>
